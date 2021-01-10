@@ -4,7 +4,7 @@ title: Shwe Yamone Oo's CV
 ---
 # Shwe Yamone Oo
 
-<h3>Internship Software Developer at Systems on Silicon Manufacturing Co. Pte Ltd</h3>
+Internship Software Developer at Systems on Silicon Manufacturing Co. Pte Ltd
 
 <div id = "basic_info">
 Address : Blk 513, West Coast Road, Clementi
