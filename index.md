@@ -17,7 +17,7 @@ Internship Software Developer at SSMC
 
 ## Personal Information
 
-Date of Birth : 24 June 1996
+<b>Date of Birth</b> : 24 June 1996
 <br/>
 Gender : Female
 <br/>
@@ -65,11 +65,17 @@ __Yammobots Co. Ltd - Yangon__ Junior Software Engineer – Full Time
 ## Projects
 
 Group Projects at NUS-ISS
+<br/>
 __Shopping Cart for Computer Software__ C# | ASP.NET Core | MySQL
-__Inventory Management System__ C# | ASP.NET Core | MySQL | REST API | Android__
+<br/>
+__Inventory Management System__ C# | ASP.NET Core | MySQL | REST API | Android
+<br/>
 __Leave Application Processing System__ Java | Spring Boot | MySQL
+<br/>
 __Memory Game for Android__ Android using Java
+<br/>
 __Developing supervised and unsupervised models by using wine dataset and house pricing dataset__ Python for Machine Learning
+<br/>
 __Developing user requirement gathering and user requirement specifications__
 
 <!-- ### Footer
