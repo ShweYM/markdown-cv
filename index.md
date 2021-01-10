@@ -1,23 +1,24 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Shwe Yamone Oo's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Shwe Yamone Oo
+Software Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="">isaac@applesdofall.org</a>
+| <a href="">My wikipedia page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Internship Software Developer at Systems on Silicon Manufacturing Co. Pte Ltd
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Information Science at University of Technology(Yatanarpon Cyber City)
+System Analyst at National University of Singapore(NUS-ISS)
 
 
 ### Research interests
