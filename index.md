@@ -7,18 +7,16 @@ title: Shwe Yamone Oo's CV
 <br/>
 Internship Software Developer at Systems on Silicon Manufacturing Co. Pte Ltd
 
+<br/>
+<b>Address</b> : Blk 513, West Coast Road, Clementi #12-491, S120513
 
-Address : Blk 513, West Coast Road, Clementi
+<b>Mobile</b> : +65 96724346
 
-#12-491, S120513
+<b>Email</b> : shweyamoneoo24@gmail.com
 
-Mobile : +65 96724346
+<b>GitHub</b> : <a href="https://github.com/ShweYM">https://github.com/ShweYM</a>
 
-Email : shweyamoneoo24@gmail.com
-
-GitHub : <a href="https://github.com/ShweYM">https://github.com/ShweYM</a>
-
-LinkedIn : <a href="https://www.linkedin.com/in/shweyamone/">https://www.linkedin.com/in/shweyamone/</a>
+<b>LinkedIn</b> : <a href="https://www.linkedin.com/in/shweyamone/">https://www.linkedin.com/in/shweyamone/</a>
 
 
 ## Currently
