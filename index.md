@@ -9,8 +9,18 @@ Internship Software Developer at SSMC
 <a href="mailto:shweyamoneoo24@gmail.com">shweyamoneoo24@gmail.com</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/ShweYM">ShweYM</a>
+|
+<i class="fa fa-linkin"></i><a href="https://www.linkedin.com/in/shweyamone/">Shwe Yamone Oo</a>
+|
+<i class="fa fa-phone"></i><p>96724346</p>
 </div>
 
+## Personal Information
+
+Date of Birth : 24 June 1996 
+Gender : Female
+Nationality : Myanmar
+Language : Burmese, English
 
 ## Career Summary
 
@@ -52,19 +62,12 @@ __Yammobots Co. Ltd - Yangon__ Junior Software Engineer – Full Time
 ## Projects
 
 Group Projects at NUS-ISS
-1. Shopping Cart for Computer Software
-C# | ASP.NET Core | MySQL
-2. Inventory Management System
-C# | ASP.NET Core | MySQL | REST API | Android
-3. Leave Application Processing System
-Java | Spring Boot | MySQL
-4. Memory Game for Android
-Android using Java
-5. Developing supervised and unsupervised models by using wine 
-dataset and house pricing dataset
-Python for Machine Learning
-6. Developing user requirement gathering and user requirement 
-specifications
+__Shopping Cart for Computer Software__ C# | ASP.NET Core | MySQL
+__Inventory Management System__ C# | ASP.NET Core | MySQL | REST API | Android__
+__Leave Application Processing System__ Java | Spring Boot | MySQL
+__Memory Game for Android__ Android using Java
+__Developing supervised and unsupervised models by using wine dataset and house pricing dataset__ Python for Machine Learning
+__Developing user requirement gathering and user requirement specifications__
 
 <!-- ### Footer
 
