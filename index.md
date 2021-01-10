@@ -3,17 +3,26 @@ layout: cv
 title: Shwe Yamone Oo's CV
 ---
 # Shwe Yamone Oo
-Software Developer
 
-<div id="webaddress">
-<a href="">isaac@applesdofall.org</a>
-| <a href="">My wikipedia page</a>
+<h3>Internship Software Developer at Systems on Silicon Manufacturing Co. Pte Ltd</h3>
+
+<div id = "basic_info">
+Address : Blk 513, West Coast Road, Clementi
+
+#12-491, S120513
+
+Mobile : +65 96724346
+
+Email : shweyamoneoo24@gmail.com
+
+GitHub : <a href="https://github.com/ShweYM">https://github.com/ShweYM</a>
+
+LinkedIn : <a href="https://www.linkedin.com/in/shweyamone/">https://www.linkedin.com/in/shweyamone/</a>
 </div>
-
 
 ## Currently
 
-Internship Software Developer at Systems on Silicon Manufacturing Co. Pte Ltd
+
 
 ### Specialized in
 
