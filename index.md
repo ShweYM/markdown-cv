@@ -12,14 +12,17 @@ Internship Software Developer at SSMC
 |
 <i class="fa fa-linkin"></i><a href="https://www.linkedin.com/in/shweyamone/">Shwe Yamone Oo</a>
 |
-<i class="fa fa-phone"></i><p>96724346</p>
+<i class="fa fa-phone"></i> 96724346
 </div>
 
 ## Personal Information
 
-Date of Birth : 24 June 1996 
+Date of Birth : 24 June 1996
+<br/>
 Gender : Female
+<br/>
 Nationality : Myanmar
+<br/>
 Language : Burmese, English
 
 ## Career Summary
